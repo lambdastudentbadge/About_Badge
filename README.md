@@ -8,7 +8,7 @@
 
 # Lambda School Github Badge
 
-I thought lambda school students deserverd their own badge. After all, we work hard enough don't we? Below you will find the badges I've made and the code needed to add them to your repos. Simply add the code to your README.md for the badge to appear on your repo. Hope you guys like it
+I thought lambda school students deserverd their own badge. After all, we work hard enough don't we? Below you will find the badges I've made and the code needed to add them to your repos. Simply add the code to your README.md for the badge to appear on your repo. Hope you guys like it! Also I made them clickable. It will send everyone [here](https://lambdaschool.com).
 
 
 
